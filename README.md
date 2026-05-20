@@ -49,7 +49,7 @@ $ exit
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lemersaut&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs&count_private=true&hide_rank=true&hide_border=true)](https://github.com/lemersaut)
+[![GitHub Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=lemersaut&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs&count_private=true&hide_rank=true&hide_border=true)](https://github.com/lemersaut)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lemersaut&theme=tokyonight&hide_border=true)](https://github.com/lemersaut)
 
