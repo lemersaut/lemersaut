@@ -26,7 +26,7 @@ $ env
 $ npx lemersaut
 > run it in your terminal to view the custom business card
 
-$ : the loop is not the problem — it's the method
+$ : you can't patch a vulnerability you refuse to acknowledge
 
 $ exit
 ```
@@ -47,15 +47,10 @@ $ exit
 
 <br>
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lemersaut&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs&count_private=true&hide_rank=true&hide_border=true)](https://github.com/lemersaut)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lemersaut&theme=tokyonight&hide_border=true)](https://github.com/lemersaut)
-
-</div>
-
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lemersaut&theme=tokyonight&hide_border=true&v=10" width="343" align="middle" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com/?user=lemersaut&theme=tokyonight&hide_border=true&v=10" width="360" align="middle" alt="GitHub Streak" />
+</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:3b0072,100:0d0015&height=80&section=footer)
 
