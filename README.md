@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0015,50:3b0072,100:8A2BE2&height=100&section=header)
  
-[![Nick](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=1&pause=0&color=8A2BE2&center=true&vCenter=true&width=400&lines=lemersaut&repeat=false)](https://github.com/lemersaut)
+[![Nick](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=1&pause=0&color=8A2BE2&center=true&vCenter=true&width=400&lines=Mersaut&repeat=false)](https://github.com/lemersaut)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3200&pause=1200&color=8A2BE2&center=true&vCenter=true&width=580&lines=aspiring+security+software+engineer;commit+to+understanding%2C+not+just+to+git;breaking+code+down+to+build+it+up;understand+the+why+behind+every+what)](https://github.com/lemersaut)
 
@@ -52,6 +52,6 @@ $ exit
   <img src="https://streak-stats.demolab.com/?user=lemersaut&theme=tokyonight&hide_border=true&v=10" width="360" align="middle" alt="GitHub Streak" />
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:3b0072,100:0d0015&height=80&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:3b0072,100:0d0015&height=100&section=footer)
 
 </div>
